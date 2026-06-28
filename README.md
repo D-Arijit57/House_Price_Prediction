@@ -1,41 +1,68 @@
-markdown_content = """# 🏠 House Price Predictor
+# 🏠 House Price Predictor
 
-A Machine Learning project that predicts house prices using Linear Regression while demonstrating the complete supervised learning workflow, from data preprocessing to model evaluation.
+A comprehensive Machine Learning project that predicts house prices using Linear Regression, demonstrating the complete supervised learning workflow from data preprocessing to model evaluation.
+
+---
+
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Dataset](#-dataset)
+- [Project Structure](#-project-structure)
+- [Machine Learning Pipeline](#-machine-learning-pipeline)
+- [Results](#-results)
+- [Technologies Used](#-technologies-used)
+- [Key Learnings](#-key-learnings)
+- [Future Improvements](#-future-improvements)
+- [Getting Started](#-getting-started)
 
 ---
 
 ## 📖 Project Overview
 
-The objective of this project is to predict the price of a house based on several numerical features, including:
+This project aims to predict house prices based on several numerical features while emphasizing the complete Machine Learning pipeline, including:
 
-* **Area** (Square Feet)
-* **Number of Bedrooms**
-* **Number of Bathrooms**
-* **House Age**
-* **Garage Spaces**
+- **Data preprocessing & missing value handling**
+- **Model training & evaluation**
+- **Baseline comparison**
+- **Cross-validation**
 
-Instead of only training a model, this project focuses on understanding the complete Machine Learning pipeline, including preprocessing, evaluation, baseline comparison, and cross-validation.
+### Target Features
+
+The model predicts house prices based on:
+
+- **Area** (Square Feet)
+- **Number of Bedrooms**
+- **Number of Bathrooms**
+- **House Age** (years)
+- **Garage Spaces**
+
+---
 
 ## 📊 Dataset
 
-The dataset contains 200 housing records with the following features. 
+**Size:** 200 housing records
 
-*Note: Some records intentionally contain missing values to demonstrate preprocessing techniques.*
+**Note:** Some records intentionally contain missing values to demonstrate preprocessing techniques.
 
-| Feature | Description |
-| :--- | :--- |
-| `house_id` | Unique identifier |
-| `area_sqft` | Area of the house |
-| `bedrooms` | Number of bedrooms |
-| `bathrooms` | Number of bathrooms |
-| `house_age` | Age of the house (years) |
-| `garage_spaces` | Number of garage spaces |
-| `price_lakh` | **Target variable** (House Price in Lakhs) |
+### Feature Descriptions
+
+| Feature | Type | Description |
+|---------|------|-------------|
+| `house_id` | Integer | Unique identifier |
+| `area_sqft` | Float | Area of the house in square feet |
+| `bedrooms` | Float | Number of bedrooms |
+| `bathrooms` | Float | Number of bathrooms |
+| `house_age` | Float | Age of the house in years |
+| `garage_spaces` | Float | Number of garage spaces |
+| `price_lakh` | Float | **Target variable** - House Price in Lakhs |
+
+---
 
 ## 🗂️ Project Structure
 
-```text
-HousePricePredictor/
+```
+House_Price_Prediction/
 │
 ├── data/
 │   └── housing_dataset_200_ml_fundamentals.json
@@ -50,140 +77,133 @@ HousePricePredictor/
 ├── main.py
 ├── requirements.txt
 └── README.md
-⚙️ Machine Learning Pipeline
 ```
-1. Data Loading
-Load JSON dataset using Pandas.
 
-Inspect dataset structure.
+---
 
-Verify data types.
+## ⚙️ Machine Learning Pipeline
 
-2. Exploratory Data Analysis (EDA)
-Performed basic data exploration including:
+### 1. Data Loading
+- Load JSON dataset using Pandas
+- Inspect dataset structure
+- Verify data types and dimensions
 
-Statistical summary
+### 2. Exploratory Data Analysis (EDA)
+- Statistical summary (mean, median, standard deviation)
+- Missing value analysis
+- Correlation analysis
+- Feature relationship visualization
 
-Missing value analysis
+### 3. Data Preprocessing
+- **Missing Value Handling:** Mean imputation for numerical features
+- **Features Used:** Area, Bedrooms, Bathrooms, House Age, Garage Spaces
+- **Target Variable:** House Price (in Lakhs)
 
-Correlation analysis
+### 4. Train/Test Split
+- **Training Data:** 80%
+- **Testing Data:** 20%
+- Enables model learning from historical data and evaluation on unseen samples
 
-Feature relationships
+### 5. Model Training
+- **Algorithm:** Linear Regression
+- Learns the relationship between input features and target house price
 
-3. Data Preprocessing
-Missing values are handled using mean imputation for numerical features.
+### 6. Baseline Model
+- Simple baseline predicting the mean house price for every sample
+- Serves as a benchmark to validate Linear Regression performance
 
-Features used for training: Area, Bedrooms, Bathrooms, House Age, Garage Spaces.
+### 7. Model Evaluation
+Metrics used:
+- **Mean Absolute Error (MAE)**
+- **Mean Squared Error (MSE)**
+- **Root Mean Squared Error (RMSE)**
+- **Coefficient of Determination (R²)**
 
-Target: House Price.
+### 8. Residual Analysis
+- Understand prediction errors
+- Identify largest prediction deviations
+- Analyze difficult-to-predict samples
 
-4. Train/Test Split
-The dataset is divided into:
+### 9. Cross Validation
+- **5-Fold Cross Validation** for robust generalization assessment
+- More reliable than single train-test split
 
-80% Training Data
+---
 
-20% Testing Data
+## 📈 Results
 
-This allows the model to learn from historical data while being evaluated on unseen samples.
+### Linear Regression Model Performance
 
-5. Model Training
-Model used: Linear Regression.
+| Metric | Value |
+|--------|-------|
+| **MAE** | ≈ 5.28 Lakhs |
+| **RMSE** | ≈ 6.73 Lakhs |
+| **R²** | ≈ 0.956 |
 
-The model learns the relationship between the input features and the target house price.
+### Model vs Baseline
 
-6. Baseline Model
-A simple baseline model is implemented that predicts the mean house price for every test sample.
+The Linear Regression model **significantly outperforms** the baseline model across all evaluation metrics, demonstrating the effectiveness of the approach.
 
-This serves as a benchmark to verify that the Linear Regression model performs significantly better than a naive prediction strategy.
+---
 
-7. Model Evaluation
-The trained model is evaluated using:
+## 🛠️ Technologies Used
 
-Mean Absolute Error (MAE)
+- **Python 3.x**
+- **Pandas** - Data manipulation and analysis
+- **NumPy** - Numerical computing
+- **Scikit-learn** - Machine learning library
 
-Mean Squared Error (MSE)
+---
 
-Root Mean Squared Error (RMSE)
+## 🧠 Key Learnings
 
-Coefficient of Determination (R²)
+Through this project, I gained hands-on experience with:
 
-8. Residual Analysis
-Residuals are analyzed to:
+- ✅ Data preprocessing & missing value handling strategies
+- ✅ Feature selection and engineering
+- ✅ Train/Test split methodology
+- ✅ Cross-validation techniques
+- ✅ Linear Regression model implementation
+- ✅ Baseline model comparison
+- ✅ Regression evaluation metrics
+- ✅ Residual analysis and interpretation
+- ✅ Modular Machine Learning project structure
 
-Understand prediction errors.
+---
 
-Identify the largest prediction error.
+## 🚀 Future Improvements
 
-Inspect houses that are difficult to predict.
+Potential enhancements to expand this project:
 
-9. Cross Validation
-5-Fold Cross Validation is performed to evaluate how well the model generalizes across different train-test splits.
+- 🔄 **Predictive Imputation** for more sophisticated missing value handling
+- 📊 **Feature Scaling** (Standardization/Normalization)
+- 📈 **Advanced Models:** Ridge and Lasso Regression
+- 📉 **Residual Visualization** plots and diagnostics
+- 🎯 **Hyperparameter Tuning** for model optimization
+- 💾 **Larger Dataset:** Real-world housing data with more features
+- 🤖 **Ensemble Methods:** Random Forest, Gradient Boosting
+- 📱 **Model Deployment:** Create API or web interface
 
-This provides a more reliable estimate of model performance than relying on a single train-test split.
+---
 
-📈 Results
-Linear Regression
-MAE: ≈ 5.28 Lakhs
+## 🚀 Getting Started
 
-RMSE: ≈ 6.73 Lakhs
+### Prerequisites
 
-R²: ≈ 0.956
-
-Baseline Model
-The baseline model predicts the average house price for every sample. The Linear Regression model significantly outperforms the baseline across all evaluation metrics.
-
-🛠️ Technologies Used
-Python
-
-Pandas
-
-NumPy
-
-Scikit-learn
-
-🧠 Key Learnings
-Through this project, I learned:
-
-Data preprocessing & Missing value handling
-
-Feature selection
-
-Train/Test Split & Cross Validation
-
-Linear Regression & Baseline Models
-
-Regression Evaluation Metrics
-
-Residual Analysis
-
-Modular Machine Learning project structure
-
-🚀 Future Improvements
-Possible enhancements include:
-
-Predictive Imputation for missing values
-
-Feature Scaling
-
-Ridge and Lasso Regression
-
-Residual Visualization
-
-Hyperparameter Tuning
-
-Larger real-world housing dataset
-💻 How to Run
-Clone the repository:
-
-Bash
-git clone <repository-url>
-Install dependencies:
-
-Bash
+```bash
 pip install -r requirements.txt
-Run the project:
+```
 
-Bash
+### Running the Project
+
+```bash
 python main.py
-Author: Arijit Das
-"""
+```
+
+This will execute the complete pipeline from data loading to model evaluation.
+
+---
+
+**Author:** Arijit Das  
+**Last Updated:** 2026  
+**License:** MIT (if applicable)

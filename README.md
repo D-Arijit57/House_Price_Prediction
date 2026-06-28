@@ -2,8 +2,6 @@ markdown_content = """# 🏠 House Price Predictor
 
 A Machine Learning project that predicts house prices using Linear Regression while demonstrating the complete supervised learning workflow, from data preprocessing to model evaluation.
 
-> **Note:** This project was built to strengthen my understanding of Machine Learning fundamentals before moving into more advanced AI Engineering topics such as Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and AI-powered applications.
-
 ---
 
 ## 📖 Project Overview

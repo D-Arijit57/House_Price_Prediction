@@ -1,0 +1,1802 @@
+[
+  {
+    "house_id": 5000,
+    "area_sqft": 914,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 26,
+    "garage_spaces": 2,
+    "price_lakh": 21.6
+  },
+  {
+    "house_id": 5001,
+    "area_sqft": 2060,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 10,
+    "garage_spaces": 1,
+    "price_lakh": 196.14
+  },
+  {
+    "house_id": 5002,
+    "area_sqft": 1058,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 4,
+    "garage_spaces": 0,
+    "price_lakh": 37.99
+  },
+  {
+    "house_id": 5003,
+    "area_sqft": 1282,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 18,
+    "garage_spaces": 3,
+    "price_lakh": 42.61
+  },
+  {
+    "house_id": 5004,
+    "area_sqft": 2106,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "house_age": 13,
+    "garage_spaces": 2,
+    "price_lakh": 68.51
+  },
+  {
+    "house_id": 5005,
+    "area_sqft": 2905,
+    "bedrooms": 4,
+    "bathrooms": null,
+    "house_age": 33,
+    "garage_spaces": 3,
+    "price_lakh": 98.77
+  },
+  {
+    "house_id": 5006,
+    "area_sqft": 1038,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 10,
+    "garage_spaces": 2,
+    "price_lakh": 32.25
+  },
+  {
+    "house_id": 5007,
+    "area_sqft": 3047,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 12,
+    "garage_spaces": 0,
+    "price_lakh": 105.78
+  },
+  {
+    "house_id": 5008,
+    "area_sqft": 2361,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 18,
+    "garage_spaces": 3,
+    "price_lakh": 91.87
+  },
+  {
+    "house_id": 5009,
+    "area_sqft": 1427,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 24,
+    "garage_spaces": 3,
+    "price_lakh": 39.08
+  },
+  {
+    "house_id": 5010,
+    "area_sqft": 2141,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 27,
+    "garage_spaces": 3,
+    "price_lakh": 65.51
+  },
+  {
+    "house_id": 5011,
+    "area_sqft": 1039,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 34,
+    "garage_spaces": 3,
+    "price_lakh": 24.29
+  },
+  {
+    "house_id": 5012,
+    "area_sqft": 1775,
+    "bedrooms": 2,
+    "bathrooms": null,
+    "house_age": 35,
+    "garage_spaces": 2,
+    "price_lakh": 51.43
+  },
+  {
+    "house_id": 5013,
+    "area_sqft": 2416,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 23,
+    "garage_spaces": 1,
+    "price_lakh": 77.99
+  },
+  {
+    "house_id": 5014,
+    "area_sqft": 2286,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 9,
+    "garage_spaces": 2,
+    "price_lakh": 89.45
+  },
+  {
+    "house_id": 5015,
+    "area_sqft": 2818,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 24,
+    "garage_spaces": 3,
+    "price_lakh": 81.12
+  },
+  {
+    "house_id": 5016,
+    "area_sqft": 3724,
+    "bedrooms": 5,
+    "bathrooms": null,
+    "house_age": 19,
+    "garage_spaces": 3,
+    "price_lakh": 134.25
+  },
+  {
+    "house_id": 5017,
+    "area_sqft": 2808,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 21,
+    "garage_spaces": 0,
+    "price_lakh": 94.73
+  },
+  {
+    "house_id": 5018,
+    "area_sqft": 1813,
+    "bedrooms": 3,
+    "bathrooms": null,
+    "house_age": 13,
+    "garage_spaces": 2,
+    "price_lakh": 62.14
+  },
+  {
+    "house_id": 5019,
+    "area_sqft": 2769,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 12,
+    "garage_spaces": 2,
+    "price_lakh": 86.73
+  },
+  {
+    "house_id": 5020,
+    "area_sqft": 2902,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 30,
+    "garage_spaces": 3,
+    "price_lakh": 92.84
+  },
+  {
+    "house_id": 5021,
+    "area_sqft": 3067,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 25,
+    "garage_spaces": 1,
+    "price_lakh": 396.08
+  },
+  {
+    "house_id": 5022,
+    "area_sqft": 3162,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_age": 21,
+    "garage_spaces": 0,
+    "price_lakh": 111.98
+  },
+  {
+    "house_id": 5023,
+    "area_sqft": 2423,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 13,
+    "garage_spaces": 3,
+    "price_lakh": 81.97
+  },
+  {
+    "house_id": 5024,
+    "area_sqft": 955,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 32,
+    "garage_spaces": 2,
+    "price_lakh": 35.17
+  },
+  {
+    "house_id": 5025,
+    "area_sqft": 1912,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 32,
+    "garage_spaces": 2,
+    "price_lakh": 47.37
+  },
+  {
+    "house_id": 5026,
+    "area_sqft": 2606,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 15,
+    "garage_spaces": 3,
+    "price_lakh": 90.42
+  },
+  {
+    "house_id": 5027,
+    "area_sqft": 3528,
+    "bedrooms": 4,
+    "bathrooms": null,
+    "house_age": 21,
+    "garage_spaces": 0,
+    "price_lakh": 109.08
+  },
+  {
+    "house_id": 5028,
+    "area_sqft": 2655,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 30,
+    "garage_spaces": 1,
+    "price_lakh": 84.25
+  },
+  {
+    "house_id": 5029,
+    "area_sqft": 831,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 0,
+    "garage_spaces": 2,
+    "price_lakh": 34.95
+  },
+  {
+    "house_id": 5030,
+    "area_sqft": 1867,
+    "bedrooms": 1,
+    "bathrooms": null,
+    "house_age": 22,
+    "garage_spaces": 3,
+    "price_lakh": 51.83
+  },
+  {
+    "house_id": 5031,
+    "area_sqft": 1803,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 33,
+    "garage_spaces": 1,
+    "price_lakh": 56.57
+  },
+  {
+    "house_id": 5032,
+    "area_sqft": 1077,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 34,
+    "garage_spaces": 2,
+    "price_lakh": 37.79
+  },
+  {
+    "house_id": 5033,
+    "area_sqft": 2307,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "house_age": 7,
+    "garage_spaces": 0,
+    "price_lakh": 81.38
+  },
+  {
+    "house_id": 5034,
+    "area_sqft": 2720,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 13,
+    "garage_spaces": 1,
+    "price_lakh": 92.36
+  },
+  {
+    "house_id": 5035,
+    "area_sqft": 805,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 20,
+    "garage_spaces": 0,
+    "price_lakh": 18.01
+  },
+  {
+    "house_id": 5036,
+    "area_sqft": 2484,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 11,
+    "garage_spaces": 2,
+    "price_lakh": 83.94
+  },
+  {
+    "house_id": 5037,
+    "area_sqft": 806,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 9,
+    "garage_spaces": 3,
+    "price_lakh": 30.69
+  },
+  {
+    "house_id": 5038,
+    "area_sqft": 2995,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 4,
+    "garage_spaces": 3,
+    "price_lakh": 105.58
+  },
+  {
+    "house_id": 5039,
+    "area_sqft": 1137,
+    "bedrooms": 1,
+    "bathrooms": null,
+    "house_age": 29,
+    "garage_spaces": 2,
+    "price_lakh": 34.28
+  },
+  {
+    "house_id": 5040,
+    "area_sqft": 1573,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 6,
+    "garage_spaces": 0,
+    "price_lakh": 52.01
+  },
+  {
+    "house_id": 5041,
+    "area_sqft": 2274,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 8,
+    "garage_spaces": 3,
+    "price_lakh": 72.86
+  },
+  {
+    "house_id": 5042,
+    "area_sqft": 2055,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 9,
+    "garage_spaces": 1,
+    "price_lakh": 61.38
+  },
+  {
+    "house_id": 5043,
+    "area_sqft": 1321,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 5,
+    "garage_spaces": 1,
+    "price_lakh": 47.28
+  },
+  {
+    "house_id": 5044,
+    "area_sqft": 1679,
+    "bedrooms": 1,
+    "bathrooms": null,
+    "house_age": 21,
+    "garage_spaces": 1,
+    "price_lakh": 44.52
+  },
+  {
+    "house_id": 5045,
+    "area_sqft": 3923,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 3,
+    "garage_spaces": 0,
+    "price_lakh": 120.75
+  },
+  {
+    "house_id": 5046,
+    "area_sqft": 703,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 26,
+    "garage_spaces": 2,
+    "price_lakh": 19.89
+  },
+  {
+    "house_id": 5047,
+    "area_sqft": 1885,
+    "bedrooms": 2,
+    "bathrooms": null,
+    "house_age": 0,
+    "garage_spaces": 2,
+    "price_lakh": 65.88
+  },
+  {
+    "house_id": 5048,
+    "area_sqft": 1452,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 28,
+    "garage_spaces": 0,
+    "price_lakh": 48.23
+  },
+  {
+    "house_id": 5049,
+    "area_sqft": 3478,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 13,
+    "garage_spaces": 2,
+    "price_lakh": 111.36
+  },
+  {
+    "house_id": 5050,
+    "area_sqft": 2930,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 1,
+    "garage_spaces": 2,
+    "price_lakh": 100.68
+  },
+  {
+    "house_id": 5051,
+    "area_sqft": 3895,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 11,
+    "garage_spaces": 0,
+    "price_lakh": 120.82
+  },
+  {
+    "house_id": 5052,
+    "area_sqft": 1001,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 16,
+    "garage_spaces": 2,
+    "price_lakh": 26.59
+  },
+  {
+    "house_id": 5053,
+    "area_sqft": 2968,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 21,
+    "garage_spaces": 2,
+    "price_lakh": 94.07
+  },
+  {
+    "house_id": 5054,
+    "area_sqft": 2500,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 5,
+    "garage_spaces": 0,
+    "price_lakh": 78.61
+  },
+  {
+    "house_id": 5055,
+    "area_sqft": 2169,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 8,
+    "garage_spaces": 3,
+    "price_lakh": 70.48
+  },
+  {
+    "house_id": 5056,
+    "area_sqft": 1231,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 34,
+    "garage_spaces": 2,
+    "price_lakh": 33.73
+  },
+  {
+    "house_id": 5057,
+    "area_sqft": 797,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 17,
+    "garage_spaces": 0,
+    "price_lakh": 27.99
+  },
+  {
+    "house_id": 5058,
+    "area_sqft": 3147,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_age": 1,
+    "garage_spaces": 1,
+    "price_lakh": 111.33
+  },
+  {
+    "house_id": 5059,
+    "area_sqft": 884,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 9,
+    "garage_spaces": 1,
+    "price_lakh": 31.93
+  },
+  {
+    "house_id": 5060,
+    "area_sqft": 3068,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "house_age": 27,
+    "garage_spaces": 2,
+    "price_lakh": 93.36
+  },
+  {
+    "house_id": 5061,
+    "area_sqft": 2891,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_age": 13,
+    "garage_spaces": 0,
+    "price_lakh": 85.39
+  },
+  {
+    "house_id": 5062,
+    "area_sqft": 2386,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "house_age": 24,
+    "garage_spaces": 2,
+    "price_lakh": 89.32
+  },
+  {
+    "house_id": 5063,
+    "area_sqft": 3486,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_age": 2,
+    "garage_spaces": 1,
+    "price_lakh": 105.9
+  },
+  {
+    "house_id": 5064,
+    "area_sqft": 3090,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 32,
+    "garage_spaces": 3,
+    "price_lakh": 107.27
+  },
+  {
+    "house_id": 5065,
+    "area_sqft": 3406,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_age": 0,
+    "garage_spaces": 1,
+    "price_lakh": 119.98
+  },
+  {
+    "house_id": 5066,
+    "area_sqft": 3383,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "house_age": 1,
+    "garage_spaces": 2,
+    "price_lakh": 111.44
+  },
+  {
+    "house_id": 5067,
+    "area_sqft": 2905,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 12,
+    "garage_spaces": 1,
+    "price_lakh": 92.83
+  },
+  {
+    "house_id": 5068,
+    "area_sqft": 3789,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_age": 6,
+    "garage_spaces": 0,
+    "price_lakh": 125.48
+  },
+  {
+    "house_id": 5069,
+    "area_sqft": 1107,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 33,
+    "garage_spaces": 3,
+    "price_lakh": 30.6
+  },
+  {
+    "house_id": 5070,
+    "area_sqft": 3827,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_age": 21,
+    "garage_spaces": 3,
+    "price_lakh": 129.66
+  },
+  {
+    "house_id": 5071,
+    "area_sqft": 2812,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 23,
+    "garage_spaces": 0,
+    "price_lakh": 87.92
+  },
+  {
+    "house_id": 5072,
+    "area_sqft": 3748,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 32,
+    "garage_spaces": 1,
+    "price_lakh": 118.76
+  },
+  {
+    "house_id": 5073,
+    "area_sqft": 1833,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 14,
+    "garage_spaces": 0,
+    "price_lakh": 59.27
+  },
+  {
+    "house_id": 5074,
+    "area_sqft": 3312,
+    "bedrooms": 4,
+    "bathrooms": null,
+    "house_age": 5,
+    "garage_spaces": 2,
+    "price_lakh": 115.93
+  },
+  {
+    "house_id": 5075,
+    "area_sqft": 2195,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 35,
+    "garage_spaces": 3,
+    "price_lakh": 71.93
+  },
+  {
+    "house_id": 5076,
+    "area_sqft": 833,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 28,
+    "garage_spaces": 1,
+    "price_lakh": 28.72
+  },
+  {
+    "house_id": 5077,
+    "area_sqft": 2126,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 17,
+    "garage_spaces": 2,
+    "price_lakh": 74.5
+  },
+  {
+    "house_id": 5078,
+    "area_sqft": 1183,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 33,
+    "garage_spaces": 0,
+    "price_lakh": 37.46
+  },
+  {
+    "house_id": 5079,
+    "area_sqft": 3970,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 22,
+    "garage_spaces": 1,
+    "price_lakh": 125.09
+  },
+  {
+    "house_id": 5080,
+    "area_sqft": 2170,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "house_age": 6,
+    "garage_spaces": 1,
+    "price_lakh": 74.25
+  },
+  {
+    "house_id": 5081,
+    "area_sqft": 967,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 27,
+    "garage_spaces": 3,
+    "price_lakh": 36.27
+  },
+  {
+    "house_id": 5082,
+    "area_sqft": 2778,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "house_age": 21,
+    "garage_spaces": 2,
+    "price_lakh": 90.95
+  },
+  {
+    "house_id": 5083,
+    "area_sqft": 2304,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 2,
+    "garage_spaces": 1,
+    "price_lakh": 90.43
+  },
+  {
+    "house_id": 5084,
+    "area_sqft": 2632,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 34,
+    "garage_spaces": 0,
+    "price_lakh": 83.07
+  },
+  {
+    "house_id": 5085,
+    "area_sqft": 2649,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 19,
+    "garage_spaces": 1,
+    "price_lakh": 86.64
+  },
+  {
+    "house_id": 5086,
+    "area_sqft": 2597,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "house_age": 18,
+    "garage_spaces": 0,
+    "price_lakh": 88.38
+  },
+  {
+    "house_id": 5087,
+    "area_sqft": 3201,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "house_age": 33,
+    "garage_spaces": 1,
+    "price_lakh": 101.8
+  },
+  {
+    "house_id": 5088,
+    "area_sqft": 2519,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 15,
+    "garage_spaces": 2,
+    "price_lakh": 85.03
+  },
+  {
+    "house_id": 5089,
+    "area_sqft": 3716,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "house_age": 35,
+    "garage_spaces": 0,
+    "price_lakh": 111.44
+  },
+  {
+    "house_id": 5090,
+    "area_sqft": 2110,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 8,
+    "garage_spaces": 2,
+    "price_lakh": 73.98
+  },
+  {
+    "house_id": 5091,
+    "area_sqft": 1503,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 3,
+    "garage_spaces": 2,
+    "price_lakh": 61.3
+  },
+  {
+    "house_id": 5092,
+    "area_sqft": 1349,
+    "bedrooms": 1,
+    "bathrooms": null,
+    "house_age": 20,
+    "garage_spaces": 0,
+    "price_lakh": 31.98
+  },
+  {
+    "house_id": 5093,
+    "area_sqft": 2591,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 6,
+    "garage_spaces": 0,
+    "price_lakh": 87.92
+  },
+  {
+    "house_id": 5094,
+    "area_sqft": 1672,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 10,
+    "garage_spaces": 3,
+    "price_lakh": 68.35
+  },
+  {
+    "house_id": 5095,
+    "area_sqft": 3221,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 27,
+    "garage_spaces": 3,
+    "price_lakh": 112.36
+  },
+  {
+    "house_id": 5096,
+    "area_sqft": 1926,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "house_age": 32,
+    "garage_spaces": 1,
+    "price_lakh": 73.42
+  },
+  {
+    "house_id": 5097,
+    "area_sqft": 2868,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 31,
+    "garage_spaces": 0,
+    "price_lakh": 77.0
+  },
+  {
+    "house_id": 5098,
+    "area_sqft": 3838,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_age": 14,
+    "garage_spaces": 1,
+    "price_lakh": 138.37
+  },
+  {
+    "house_id": 5099,
+    "area_sqft": 3938,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_age": 35,
+    "garage_spaces": 2,
+    "price_lakh": 126.82
+  },
+  {
+    "house_id": 5100,
+    "area_sqft": 736,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 26,
+    "garage_spaces": 2,
+    "price_lakh": 30.52
+  },
+  {
+    "house_id": 5101,
+    "area_sqft": 2486,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 6,
+    "garage_spaces": 3,
+    "price_lakh": 94.98
+  },
+  {
+    "house_id": 5102,
+    "area_sqft": 3765,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_age": 19,
+    "garage_spaces": 0,
+    "price_lakh": 132.19
+  },
+  {
+    "house_id": 5103,
+    "area_sqft": 1645,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 17,
+    "garage_spaces": 0,
+    "price_lakh": 45.98
+  },
+  {
+    "house_id": 5104,
+    "area_sqft": 2532,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 11,
+    "garage_spaces": 1,
+    "price_lakh": 79.85
+  },
+  {
+    "house_id": 5105,
+    "area_sqft": 1288,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 27,
+    "garage_spaces": 2,
+    "price_lakh": 41.17
+  },
+  {
+    "house_id": 5106,
+    "area_sqft": 3845,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_age": 0,
+    "garage_spaces": 1,
+    "price_lakh": 141.9
+  },
+  {
+    "house_id": 5107,
+    "area_sqft": 3153,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "house_age": 20,
+    "garage_spaces": 0,
+    "price_lakh": 108.53
+  },
+  {
+    "house_id": 5108,
+    "area_sqft": 793,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 17,
+    "garage_spaces": 1,
+    "price_lakh": 24.83
+  },
+  {
+    "house_id": 5109,
+    "area_sqft": 2873,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 17,
+    "garage_spaces": 3,
+    "price_lakh": 91.96
+  },
+  {
+    "house_id": 5110,
+    "area_sqft": 3900,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_age": 8,
+    "garage_spaces": 0,
+    "price_lakh": 130.96
+  },
+  {
+    "house_id": 5111,
+    "area_sqft": 1077,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 26,
+    "garage_spaces": 2,
+    "price_lakh": 39.49
+  },
+  {
+    "house_id": 5112,
+    "area_sqft": 926,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 29,
+    "garage_spaces": 3,
+    "price_lakh": 24.71
+  },
+  {
+    "house_id": 5113,
+    "area_sqft": 3247,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 12,
+    "garage_spaces": 1,
+    "price_lakh": 102.09
+  },
+  {
+    "house_id": 5114,
+    "area_sqft": 2667,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "house_age": 18,
+    "garage_spaces": 1,
+    "price_lakh": 91.6
+  },
+  {
+    "house_id": 5115,
+    "area_sqft": 3248,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 2,
+    "garage_spaces": 1,
+    "price_lakh": 109.03
+  },
+  {
+    "house_id": 5116,
+    "area_sqft": 2907,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 8,
+    "garage_spaces": 1,
+    "price_lakh": 90.58
+  },
+  {
+    "house_id": 5117,
+    "area_sqft": 1135,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 3,
+    "garage_spaces": 0,
+    "price_lakh": 41.24
+  },
+  {
+    "house_id": 5118,
+    "area_sqft": 2300,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 6,
+    "garage_spaces": 1,
+    "price_lakh": 86.75
+  },
+  {
+    "house_id": 5119,
+    "area_sqft": 3329,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 28,
+    "garage_spaces": 2,
+    "price_lakh": 105.29
+  },
+  {
+    "house_id": 5120,
+    "area_sqft": 3837,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_age": 31,
+    "garage_spaces": 2,
+    "price_lakh": 131.57
+  },
+  {
+    "house_id": 5121,
+    "area_sqft": 3345,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 27,
+    "garage_spaces": 0,
+    "price_lakh": 105.39
+  },
+  {
+    "house_id": 5122,
+    "area_sqft": 2045,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 14,
+    "garage_spaces": 1,
+    "price_lakh": 66.64
+  },
+  {
+    "house_id": 5123,
+    "area_sqft": 3084,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_age": 24,
+    "garage_spaces": 1,
+    "price_lakh": 114.31
+  },
+  {
+    "house_id": 5124,
+    "area_sqft": 3591,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_age": 10,
+    "garage_spaces": 1,
+    "price_lakh": 117.71
+  },
+  {
+    "house_id": 5125,
+    "area_sqft": 2327,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 34,
+    "garage_spaces": 2,
+    "price_lakh": 80.85
+  },
+  {
+    "house_id": 5126,
+    "area_sqft": 3059,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 20,
+    "garage_spaces": 1,
+    "price_lakh": 100.48
+  },
+  {
+    "house_id": 5127,
+    "area_sqft": 3808,
+    "bedrooms": 5,
+    "bathrooms": null,
+    "house_age": 29,
+    "garage_spaces": 0,
+    "price_lakh": 117.54
+  },
+  {
+    "house_id": 5128,
+    "area_sqft": 956,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 8,
+    "garage_spaces": 2,
+    "price_lakh": 35.37
+  },
+  {
+    "house_id": 5129,
+    "area_sqft": 2511,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 4,
+    "garage_spaces": 1,
+    "price_lakh": 78.36
+  },
+  {
+    "house_id": 5130,
+    "area_sqft": 2738,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "house_age": 15,
+    "garage_spaces": 0,
+    "price_lakh": 94.33
+  },
+  {
+    "house_id": 5131,
+    "area_sqft": 3407,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 28,
+    "garage_spaces": 1,
+    "price_lakh": 110.87
+  },
+  {
+    "house_id": 5132,
+    "area_sqft": 1788,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 6,
+    "garage_spaces": 1,
+    "price_lakh": 61.0
+  },
+  {
+    "house_id": 5133,
+    "area_sqft": 1173,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 0,
+    "garage_spaces": 0,
+    "price_lakh": 41.08
+  },
+  {
+    "house_id": 5134,
+    "area_sqft": 2830,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "house_age": 15,
+    "garage_spaces": 2,
+    "price_lakh": 106.76
+  },
+  {
+    "house_id": 5135,
+    "area_sqft": 2489,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_age": 4,
+    "garage_spaces": 0,
+    "price_lakh": 87.0
+  },
+  {
+    "house_id": 5136,
+    "area_sqft": 3564,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_age": 35,
+    "garage_spaces": 1,
+    "price_lakh": 123.78
+  },
+  {
+    "house_id": 5137,
+    "area_sqft": null,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 16,
+    "garage_spaces": 0,
+    "price_lakh": 103.01
+  },
+  {
+    "house_id": 5138,
+    "area_sqft": 2753,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 26,
+    "garage_spaces": 3,
+    "price_lakh": 83.28
+  },
+  {
+    "house_id": 5139,
+    "area_sqft": 3245,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_age": 34,
+    "garage_spaces": 2,
+    "price_lakh": 117.52
+  },
+  {
+    "house_id": 5140,
+    "area_sqft": 1883,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 14,
+    "garage_spaces": 3,
+    "price_lakh": 56.18
+  },
+  {
+    "house_id": 5141,
+    "area_sqft": 2318,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 19,
+    "garage_spaces": 2,
+    "price_lakh": 76.51
+  },
+  {
+    "house_id": 5142,
+    "area_sqft": 2953,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 33,
+    "garage_spaces": 0,
+    "price_lakh": 92.25
+  },
+  {
+    "house_id": 5143,
+    "area_sqft": 3448,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 17,
+    "garage_spaces": 1,
+    "price_lakh": 116.93
+  },
+  {
+    "house_id": 5144,
+    "area_sqft": 1853,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 20,
+    "garage_spaces": 3,
+    "price_lakh": 58.71
+  },
+  {
+    "house_id": 5145,
+    "area_sqft": 921,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 23,
+    "garage_spaces": 3,
+    "price_lakh": 41.78
+  },
+  {
+    "house_id": 5146,
+    "area_sqft": 1904,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 29,
+    "garage_spaces": 0,
+    "price_lakh": 52.29
+  },
+  {
+    "house_id": 5147,
+    "area_sqft": 1931,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 11,
+    "garage_spaces": 2,
+    "price_lakh": 52.94
+  },
+  {
+    "house_id": 5148,
+    "area_sqft": 2538,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 18,
+    "garage_spaces": 0,
+    "price_lakh": 80.64
+  },
+  {
+    "house_id": 5149,
+    "area_sqft": 1978,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 15,
+    "garage_spaces": 3,
+    "price_lakh": 59.99
+  },
+  {
+    "house_id": 5150,
+    "area_sqft": 1283,
+    "bedrooms": 1,
+    "bathrooms": null,
+    "house_age": 12,
+    "garage_spaces": 3,
+    "price_lakh": 48.06
+  },
+  {
+    "house_id": 5151,
+    "area_sqft": 1429,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 3,
+    "garage_spaces": 0,
+    "price_lakh": 43.03
+  },
+  {
+    "house_id": 5152,
+    "area_sqft": 3860,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_age": 11,
+    "garage_spaces": 3,
+    "price_lakh": 143.92
+  },
+  {
+    "house_id": 5153,
+    "area_sqft": 3179,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 24,
+    "garage_spaces": 2,
+    "price_lakh": 110.63
+  },
+  {
+    "house_id": 5154,
+    "area_sqft": 1897,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 1,
+    "garage_spaces": 3,
+    "price_lakh": 70.17
+  },
+  {
+    "house_id": 5155,
+    "area_sqft": 2900,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 9,
+    "garage_spaces": 0,
+    "price_lakh": 98.53
+  },
+  {
+    "house_id": 5156,
+    "area_sqft": 1009,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 1,
+    "garage_spaces": 1,
+    "price_lakh": 31.29
+  },
+  {
+    "house_id": 5157,
+    "area_sqft": 3793,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_age": 29,
+    "garage_spaces": 1,
+    "price_lakh": 124.43
+  },
+  {
+    "house_id": 5158,
+    "area_sqft": 2116,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 12,
+    "garage_spaces": 0,
+    "price_lakh": 57.12
+  },
+  {
+    "house_id": 5159,
+    "area_sqft": 2874,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 11,
+    "garage_spaces": 2,
+    "price_lakh": 99.65
+  },
+  {
+    "house_id": 5160,
+    "area_sqft": 1122,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 35,
+    "garage_spaces": 2,
+    "price_lakh": 30.68
+  },
+  {
+    "house_id": 5161,
+    "area_sqft": 3362,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_age": 19,
+    "garage_spaces": 3,
+    "price_lakh": 127.26
+  },
+  {
+    "house_id": 5162,
+    "area_sqft": 3879,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 27,
+    "garage_spaces": 0,
+    "price_lakh": 118.28
+  },
+  {
+    "house_id": 5163,
+    "area_sqft": 721,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 6,
+    "garage_spaces": 1,
+    "price_lakh": 22.33
+  },
+  {
+    "house_id": 5164,
+    "area_sqft": 1962,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 33,
+    "garage_spaces": 3,
+    "price_lakh": 75.14
+  },
+  {
+    "house_id": 5165,
+    "area_sqft": 821,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_age": 34,
+    "garage_spaces": 0,
+    "price_lakh": 21.03
+  },
+  {
+    "house_id": 5166,
+    "area_sqft": 1590,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 33,
+    "garage_spaces": 0,
+    "price_lakh": 38.5
+  },
+  {
+    "house_id": 5167,
+    "area_sqft": 3256,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 13,
+    "garage_spaces": 3,
+    "price_lakh": 115.42
+  },
+  {
+    "house_id": 5168,
+    "area_sqft": 3230,
+    "bedrooms": 4,
+    "bathrooms": null,
+    "house_age": 21,
+    "garage_spaces": 2,
+    "price_lakh": 106.93
+  },
+  {
+    "house_id": 5169,
+    "area_sqft": 2197,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 23,
+    "garage_spaces": 2,
+    "price_lakh": 80.29
+  },
+  {
+    "house_id": 5170,
+    "area_sqft": 891,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 20,
+    "garage_spaces": 2,
+    "price_lakh": 23.6
+  },
+  {
+    "house_id": 5171,
+    "area_sqft": 1723,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 34,
+    "garage_spaces": 1,
+    "price_lakh": 58.23
+  },
+  {
+    "house_id": 5172,
+    "area_sqft": 3712,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 31,
+    "garage_spaces": 3,
+    "price_lakh": 127.28
+  },
+  {
+    "house_id": 5173,
+    "area_sqft": 2971,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 31,
+    "garage_spaces": 0,
+    "price_lakh": 82.75
+  },
+  {
+    "house_id": 5174,
+    "area_sqft": 1291,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 4,
+    "garage_spaces": 1,
+    "price_lakh": 44.47
+  },
+  {
+    "house_id": 5175,
+    "area_sqft": 2468,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 11,
+    "garage_spaces": 1,
+    "price_lakh": 73.34
+  },
+  {
+    "house_id": 5176,
+    "area_sqft": 3523,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 7,
+    "garage_spaces": 1,
+    "price_lakh": 111.02
+  },
+  {
+    "house_id": 5177,
+    "area_sqft": 2261,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 20,
+    "garage_spaces": 0,
+    "price_lakh": 68.14
+  },
+  {
+    "house_id": 5178,
+    "area_sqft": 1816,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_age": 34,
+    "garage_spaces": 0,
+    "price_lakh": 48.45
+  },
+  {
+    "house_id": 5179,
+    "area_sqft": 3788,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_age": 33,
+    "garage_spaces": 3,
+    "price_lakh": 130.37
+  },
+  {
+    "house_id": 5180,
+    "area_sqft": 2294,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 33,
+    "garage_spaces": 0,
+    "price_lakh": 73.1
+  },
+  {
+    "house_id": 5181,
+    "area_sqft": 2581,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 5,
+    "garage_spaces": 1,
+    "price_lakh": 86.4
+  },
+  {
+    "house_id": 5182,
+    "area_sqft": 2436,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 24,
+    "garage_spaces": 2,
+    "price_lakh": 78.56
+  },
+  {
+    "house_id": 5183,
+    "area_sqft": 2263,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 29,
+    "garage_spaces": 2,
+    "price_lakh": 78.39
+  },
+  {
+    "house_id": 5184,
+    "area_sqft": 1011,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 1,
+    "garage_spaces": 1,
+    "price_lakh": 38.24
+  },
+  {
+    "house_id": 5185,
+    "area_sqft": 1856,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 32,
+    "garage_spaces": 3,
+    "price_lakh": 65.67
+  },
+  {
+    "house_id": 5186,
+    "area_sqft": 1830,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 12,
+    "garage_spaces": 0,
+    "price_lakh": 65.42
+  },
+  {
+    "house_id": 5187,
+    "area_sqft": null,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 30,
+    "garage_spaces": 1,
+    "price_lakh": 111.94
+  },
+  {
+    "house_id": 5188,
+    "area_sqft": 1082,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 20,
+    "garage_spaces": 1,
+    "price_lakh": 38.7
+  },
+  {
+    "house_id": 5189,
+    "area_sqft": 3761,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_age": 23,
+    "garage_spaces": 2,
+    "price_lakh": 121.3
+  },
+  {
+    "house_id": 5190,
+    "area_sqft": 2720,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_age": 34,
+    "garage_spaces": 0,
+    "price_lakh": 80.35
+  },
+  {
+    "house_id": 5191,
+    "area_sqft": 3068,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_age": 6,
+    "garage_spaces": 0,
+    "price_lakh": 102.96
+  },
+  {
+    "house_id": 5192,
+    "area_sqft": null,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_age": 4,
+    "garage_spaces": 2,
+    "price_lakh": 54.2
+  },
+  {
+    "house_id": 5193,
+    "area_sqft": 1495,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 35,
+    "garage_spaces": 2,
+    "price_lakh": 45.72
+  },
+  {
+    "house_id": 5194,
+    "area_sqft": 1795,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_age": 1,
+    "garage_spaces": 3,
+    "price_lakh": 64.08
+  },
+  {
+    "house_id": 5195,
+    "area_sqft": 2091,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "house_age": 8,
+    "garage_spaces": 1,
+    "price_lakh": 65.22
+  },
+  {
+    "house_id": 5196,
+    "area_sqft": 2541,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_age": 35,
+    "garage_spaces": 2,
+    "price_lakh": 82.52
+  },
+  {
+    "house_id": 5197,
+    "area_sqft": 915,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_age": 1,
+    "garage_spaces": 1,
+    "price_lakh": 41.71
+  },
+  {
+    "house_id": 5198,
+    "area_sqft": 1212,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 29,
+    "garage_spaces": 1,
+    "price_lakh": 27.58
+  },
+  {
+    "house_id": 5199,
+    "area_sqft": 867,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_age": 10,
+    "garage_spaces": 0,
+    "price_lakh": 25.38
+  }
+]

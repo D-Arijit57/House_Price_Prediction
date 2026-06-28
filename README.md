@@ -172,3 +172,18 @@ Residual Visualization
 Hyperparameter Tuning
 
 Larger real-world housing dataset
+💻 How to Run
+Clone the repository:
+
+Bash
+git clone <repository-url>
+Install dependencies:
+
+Bash
+pip install -r requirements.txt
+Run the project:
+
+Bash
+python main.py
+Author: Arijit Das
+"""
